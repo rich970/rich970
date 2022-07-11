@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rich970
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python geared towards Machine Learning
+- 🌱 I’m a Python user geared towards Machine Learning
 - 💞️ I’m looking to collaborate on data science projects and statistical analysis!
 - 📫 How to reach me : r.rowanrobinson{AT}gmail.com
 
